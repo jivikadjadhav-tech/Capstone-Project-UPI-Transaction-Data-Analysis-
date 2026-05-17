@@ -23,6 +23,10 @@ The end-to-end workflow spans data engineering, statistical hypothesis testing i
 * **Data Visualization (Exploratory):** `matplotlib`, `seaborn`
 * **BI Dashboarding & Data Modeling:** Power BI (DAX)
 * **Database Architecture:** Database Relationship Mapping (ERP/ERD)
+<img width="1295" height="712" alt="Executive Dashboard-1" src="https://github.com/user-attachments/assets/4dd85011-d87f-4b34-b7a5-2ea67e990ee5" />
+<img width="1296" height="727" alt="Executive Dashboard-2" src="https://github.com/user-attachments/assets/5ed4b193-d74d-488b-9ddb-626fc4142f0d" />
+<img width="1297" height="730" alt="Fraud Analysis Dashboard-1" src="https://github.com/user-attachments/assets/310e0a69-23e6-4ecb-8115-f12aae6f98c4" />
+<img width="1302" height="727" alt="Fraud Analysis Dashboard-2" src="https://github.com/user-attachments/assets/58f4a727-0b06-4e23-95b6-145fc129a6da" />
 
 ---
 
