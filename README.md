@@ -39,5 +39,4 @@ The end-to-end workflow spans data engineering, statistical hypothesis testing i
 │   └── Presentation.pptx             # Stakeholder slide deck
 └── README.md                         # Project documentation
 
-*
-<img width="1295" height="712" alt="Image" src="https://github.com/user-attachments/assets/ff6f4ae8-51cd-47f2-9118-b9cdad597b8c" />
+
