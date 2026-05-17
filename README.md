@@ -40,7 +40,4 @@ The end-to-end workflow spans data engineering, statistical hypothesis testing i
 └── README.md                         # Project documentation
 
 *
-git add .
-git commit -m "<img width="1295" height="712" alt="Executive Dashboard-1" src="https://github.com/user-attachments/assets/fa542e60-41da-4e15-ada2-fd35550dd9b7" />
-"
-git push origin main
+<img width="1295" height="712" alt="Image" src="https://github.com/user-attachments/assets/ff6f4ae8-51cd-47f2-9118-b9cdad597b8c" />
