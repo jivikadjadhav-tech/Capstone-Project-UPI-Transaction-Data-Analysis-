@@ -39,4 +39,8 @@ The end-to-end workflow spans data engineering, statistical hypothesis testing i
 │   └── Presentation.pptx             # Stakeholder slide deck
 └── README.md                         # Project documentation
 
-* 
+*
+git add .
+git commit -m "<img width="1295" height="712" alt="Executive Dashboard-1" src="https://github.com/user-attachments/assets/fa542e60-41da-4e15-ada2-fd35550dd9b7" />
+"
+git push origin main
